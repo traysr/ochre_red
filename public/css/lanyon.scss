@@ -1,3 +1,6 @@
+---
+---
+
 /*
  *  ___
  * /\_ \
@@ -440,6 +443,20 @@ a.pagination-item:hover {
  * Apply custom color schemes by adding the appropriate class to the `body`.
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
+
+$tintColor: #ac4142;
+
+/* Scss */
+.theme-scss .sidebar,
+.theme-scss .sidebar-toggle:active,
+.theme-scss #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: $tintColor;
+}
+.theme-scss .container a,
+.theme-scss .sidebar-toggle,
+.theme-scss .related-posts li a:hover {
+  color: $tintColor;
+}
 
 /* Red */
 .theme-base-08 .sidebar,

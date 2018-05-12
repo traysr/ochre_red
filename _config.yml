@@ -5,18 +5,18 @@ permalink:           pretty
 plugins:             [jekyll-paginate]
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               ochre.red
+tagline:             'pigments to pixels'
+description:         'Made by <a href="https://twitter.com/ochre_red" target="_blank">@ochre_red</a>.'
+url:                 http://ochre.red
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Satyakam Khadilkar
+  url:               https://twitter.com/ochre_red
+  email:             red@ochre.red
 
 # Custom vars
 version:             1.0.0
