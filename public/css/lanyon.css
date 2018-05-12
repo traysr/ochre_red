@@ -444,18 +444,16 @@ a.pagination-item:hover {
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
 
-$tintColor: #ac4142;
-
 /* Scss */
 .theme-scss .sidebar,
 .theme-scss .sidebar-toggle:active,
 .theme-scss #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: $tintColor;
+  background-color: {{ site.tintcolor }};
 }
 .theme-scss .container a,
 .theme-scss .sidebar-toggle,
 .theme-scss .related-posts li a:hover {
-  color: $tintColor;
+  color: {{ site.tintcolor}};
 }
 
 /* Red */

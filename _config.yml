@@ -11,6 +11,7 @@ description:         'Made by <a href="https://twitter.com/ochre_red" target="_b
 url:                 http://ochre.red
 baseurl:             ''
 paginate:            5
+tintcolor:          "#9A2F00"
 
 # About/contact
 author:
