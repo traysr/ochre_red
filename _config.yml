@@ -6,7 +6,7 @@ plugins:             [jekyll-paginate]
 
 # Setup
 title:               ochre.red
-tagline:             'pigments to pixels'
+tagline:             'pigments → pixels'
 description:         'Made by <a href="https://twitter.com/ochre_red" target="_blank">@ochre_red</a>.'
 url:                 http://ochre.red
 baseurl:             ''
